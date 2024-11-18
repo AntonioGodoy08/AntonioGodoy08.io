@@ -1,0 +1,65 @@
+* {
+    margin: 0 ;
+    padding: 0 ;
+}
+
+
+body {
+    background-image: url(CORAÇÕES\ UNIDOS\ \(1\).png);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-size: cover;
+
+}
+
+.forms{
+    background-color: #db2d2d;
+    height: 355px;
+    padding: 10px 50px;
+    margin: 50px 50px;
+    border-radius: 25px;
+    position: relative;
+    left: 80%;
+    
+}
+
+button {
+    border: 2px solid black;
+    margin: 10px 50px;
+    padding: 10px 20px;
+
+    border-radius: 500px;
+    background-color: rgb(216, 113, 113);
+    color: black 
+    
+}
+
+button{
+    cursor: pointer;
+}
+
+h1{
+    margin: 10px 50px;
+    padding: 10px 50px;
+    color: black  ;
+    border: #000000;
+    background-color: rgb(216, 113, 113);
+
+}
+
+
+label{
+    margin: 10px 50px;
+    padding: 10px 50px;
+    
+}
+input{
+    margin: 10px 50px;
+    padding: 10px 50px;
+    
+
+}
